@@ -40,5 +40,4 @@ Processing tag: releases/gcc-15.2.0
 ```
 
 ### Лицензия
-GNU AGPLv3
-
+MIT

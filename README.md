@@ -40,4 +40,4 @@ line 13: Final standard for C++ is set as c++17.
 ```
 
 ### License
-GNU AGPLv3
+MIT
